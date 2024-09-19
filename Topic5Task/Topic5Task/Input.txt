@@ -1,0 +1,4 @@
+This is a simple test of the program.
+quick brown jumps over lazy dog.
+Hello, world! Have great day.
+words should be removed.
