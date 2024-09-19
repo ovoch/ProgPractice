@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Topic1Task.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  code.cpp
+C:\Users\aschm\source\repos\Topic1Task\Topic1Task\code.cpp(13,32): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+  Topic1Task.vcxproj -> C:\Users\aschm\source\repos\Topic1Task\x64\Debug\Topic1Task13.exe
